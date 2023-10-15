@@ -30,18 +30,20 @@ This Cricket Data Analytics Project utilized web scraping techniques for collect
 - Data enrichment skills through SQL data manipulation.
 - Mastery of Tableau for creating data visualizations and interactive dashboards.
 - Enhanced ability to effectively communicate data insights to stakeholders.
+- 
 <h2 align="left">Project 3 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/Excel-Project">Excel Project Sales insights</a></h3>
 
 **Summary:**
-The Excel project encompassed data enhancement and visualization, including data overview, cleaning, new column addition, Pivot Tables, chart integration, and interactive dashboard development.
+The Excel project encompassed data enhancement and visualization, including data overview, cleaning, new column addition, Pivot Tables, chart integration, and interactive dashboard development.<br>
 **Details:**
 - Data Overview: Initial assessment of the dataset for understanding.
 - Data Cleaning: Removal of duplicate records and adjustments for data accuracy.
 - New Column: Addition of a new column using nested if statements for categorization.
 - Pivot Tables: Utilization of Pivot Tables for data summarization.
 - Charts: Incorporation of charts for visual data representation.
-- Interactive Dashboard: Creation of an interactive dashboard for user-friendly data exploration and analysis.
+- Interactive Dashboard: Creation of an interactive dashboard for user-friendly data exploration and analysis.<br>
+- 
 **Skills Acquired:**
 - Proficiency in Excel data manipulation and cleaning.
 - Knowledge of data transformation using Excel formulas, including nested if statements.
