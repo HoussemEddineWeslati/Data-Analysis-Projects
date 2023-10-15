@@ -31,7 +31,7 @@ This Cricket Data Analytics Project utilized web scraping techniques for collect
 - Mastery of Tableau for creating data visualizations and interactive dashboards.
 - Enhanced ability to effectively communicate data insights to stakeholders.
 <h2 align="left">Project 3 :</h2>
-<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/Excel-Project">Excale Project Sales insights</a></h3>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/Excel-Project">Excel Project Sales insights</a></h3>
 
 **Summary:**
 The Excel project encompassed data enhancement and visualization, including data overview, cleaning, new column addition, Pivot Tables, chart integration, and interactive dashboard development.
